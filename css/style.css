@@ -1,0 +1,22 @@
+.grid {
+    display:flex;
+    flex-wrap: wrap;
+    height: 310px;
+    width: 410px;
+    margin: auto;
+    border: 5px solid plum;
+     
+}
+
+
+body{
+    background-color: #ffd2d2;
+}
+
+h3 {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
